@@ -9,7 +9,7 @@ dependencies:
   - tqdm
   - igl
   - scikit-learn
-  - pytorch-lightning
+  - pytorch-lightning=1.9.4
   - xlsxwriter
   - occwl=1.0.0
   - jupyter
